@@ -1,0 +1,5 @@
+{
+  "name": "VISIcat",
+  "description": "GFSI-compliant Non-Conformance and CAPA management tool with AI-assisted Root Cause Analysis.",
+  "requestFramePermissions": []
+}
