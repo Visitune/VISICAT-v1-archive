@@ -1,3 +1,10 @@
+> ## ⚠️ Archive — VisiCat v1.0 (janvier 2026)
+> Ce dépôt n'est **plus maintenu** et n'est plus servi en ligne. La version actuelle, **VisiCat 2.x**, est
+> disponible sur https://visicat.vercel.app (installable, hors ligne, mode équipe OneDrive / SharePoint, rôles
+> Administrateur / Utilisateur). Pour une version multi-utilisateurs hébergée chez le client : **VisiCapa**
+> (« VisiCat Entreprise »). Les fiches enregistrées par cette v1 dans le navigateur sont reprises automatiquement
+> par VisiCat 2.x à la même adresse.
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
